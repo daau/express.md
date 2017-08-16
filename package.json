@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/daau/express.md/issues"
   },
-  "homepage": "https://github.com/daau/express.md#readme"
+  "homepage": "https://github.com/daau/express.md#readme",
+  "dependencies": {
+    "marked": "^0.3.6"
+  }
 }
